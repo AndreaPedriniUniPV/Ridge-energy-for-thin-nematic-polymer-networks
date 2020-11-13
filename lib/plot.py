@@ -43,8 +43,8 @@ def plot_angles(ax, theta, phi):
     """
     n = len(theta)
     ax.set_title('Best angles')
-    ax.scatter(np.arange(n), theta, color='r', label=r'$\vartheta$')
-    ax.scatter(np.arange(n), phi, color='g', label=r'$\varphi$')
+    ax.scatter(np.arange(n), theta, color='g', label=r'$\vartheta$')
+    ax.scatter(np.arange(n), phi, color='orange', label=r'$\varphi$')
     ax.set(xlabel='n')
     ax.set_xlim(left=-1, right=n)
     ax.legend()

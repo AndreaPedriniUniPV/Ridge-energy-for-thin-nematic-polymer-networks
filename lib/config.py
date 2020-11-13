@@ -17,7 +17,7 @@ lambda_4 = 10
 ##################################
 # parameters of the optimization #
 ##################################
-m = 50  # number of attempts (with different random initializations)
+m = 1  # number of attempts (with different random initializations)
 epochs = 40
 items = 500  # optimization steps in each epoch
 learning_rate = 0.01

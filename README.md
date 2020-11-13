@@ -1,6 +1,6 @@
 # Ridge energy for thin nematic polymer networks - accompanying ESI
 
-This code is companion to the article **_"Ridge energy for thin nematic polymer networks"_**, submitted to *PRE*.
+This code is companion to the article **_"Ridge energy for thin nematic polymer networks"_**, submitted to *EPJE*.
 
 #### Authors
 *Andrea Pedrini* (andrea.pedrini@unipv.it) - Dipartimento di Matematica, Università di Pavia, via Ferrata 5, 27100 Pavia, Italy;
@@ -63,7 +63,7 @@ We give here a brief description of what is shown in the plot window.
 
 The title contains the values of the geometric parameters `n` and `a` for the experiment.
 
-The first plot (top left) displays the minimizer angles theta (green) and phi (red) 
+The first plot (top left) displays the minimizer angles theta (green) and phi (orange) 
 at each articulated edge where two adjacent rods concur.
 
 The second plot (below the first one) displays the total energy values obtained at each *attempt*.
