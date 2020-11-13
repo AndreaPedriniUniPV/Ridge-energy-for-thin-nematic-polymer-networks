@@ -1,4 +1,4 @@
-# Ridge energy for thin nematic polymer networks - accompanying ESI
+# Ridge energy for thin nematic polymer networks - accompanying code
 
 This code is companion to the article **_"Ridge energy for thin nematic polymer networks"_**, submitted to *EPJE*.
 

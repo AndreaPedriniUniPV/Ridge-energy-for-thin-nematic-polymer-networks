@@ -1,5 +1,5 @@
 """
-This code is companion to the article "Ridge energy for thin nematic polymer networks", by
+This code is a companion to the article "Ridge energy for thin nematic polymer networks", by
     Andrea Pedrini (andrea.pedrini@unipv.it) - Dipartimento di Matematica, Università di Pavia, via Ferrata 5, 27100 Pavia, Italy;
     Epifanio G. Virga (eg.virga@unipv.it) - Dipartimento di Matematica, Università di Pavia, via Ferrata 5, 27100 Pavia, Italy.
 
